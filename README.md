@@ -10,4 +10,6 @@ https://www.notion.so/Kubernetes-for-the-Absolute-Beginners-Hands-on-630d1e5f34d
 8/61 강 완료
 
 '23. 1. 2(월)
- 
+미학습 ;(
+
+'23. 1. 3(화)
