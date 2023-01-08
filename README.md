@@ -14,3 +14,6 @@ https://www.notion.so/Kubernetes-for-the-Absolute-Beginners-Hands-on-630d1e5f34d
 
 '23. 1. 3(화)
 미학습 ;(
+
+'23. 1. 8(일)
+섹션 2 종료.
