@@ -20,3 +20,6 @@ https://www.notion.so/Kubernetes-for-the-Absolute-Beginners-Hands-on-630d1e5f34d
 
 '23. 1. 9(월)
 섹션3 쿠버네티스 클러스터 설치 학습
+
+'23. 1. 10(화)
+섹션3 Minikube 설치 데모
